@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 FastAPI_project.ipynb
+auth/
+.env
+config.py
