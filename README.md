@@ -3,7 +3,7 @@
 Данный сервис призван сокращать ссылки. 
 
 Сервис развернут на удаленном хосте с помощью **docker-compose**
-![](img\deploy.png)
+![]([img\deploy.png](https://github.com/b3GOR/HW3_AplliedPython/blob/main/img/deploy.png))
 
 
 ## Функционал
@@ -68,7 +68,7 @@ API  работает по адресу http://127.0.0.1:8000/docs
 Взаимодействие с БД происходить через **SQLAlchemy** при помощи **psycopg2**.
 Всего в БД 3 таблицы:
 
-![](img\db.png)
+![](https://github.com/b3GOR/HW3_AplliedPython/blob/main/img/db.png)
 
 * **links** - здесь храняться ссылки и их укороченная версия
     * *short_code* - укороченная часть ссылки
