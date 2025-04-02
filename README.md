@@ -3,6 +3,8 @@
 Данный сервис призван сокращать ссылки. 
 
 Сервис развернут на удаленном хосте с помощью **docker-compose**
+
+
 ![](https://github.com/b3GOR/HW3_AplliedPython/blob/main/img/deploy.png)
 
 
